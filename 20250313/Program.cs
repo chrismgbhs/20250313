@@ -59,7 +59,6 @@ namespace _20250313_DSA_Machine_Problem
             
             
             // THE FOR LOOP WILL NAVIGATE THE NUMBER OF ROWS AND COLUMNS TO DETERMINE THE NUMBER WHICH WILL BE PRINTED.
-            // IT PRINTS EACH ROWS ONE BY ONE.
             for (int row = 0; row < bingoValues.Length; row++)
             {
                 for (int column = 0; column < bingoValues[row].Length; column++)
