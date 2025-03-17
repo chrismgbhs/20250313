@@ -14,7 +14,6 @@ namespace _20250313_DSA_Machine_Problem
             Random random = new Random();
             int genNum = 0;
             bool matchCheck;
-            bool validNum;
             
             // CREATION OF 2D ARRAY AND ASSIGNING 5 SLOTS FOR THE OUTER ARRAY
             int[][] bingoValues = new int[5][];
